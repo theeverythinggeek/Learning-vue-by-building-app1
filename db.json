@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "Editing frm localhost."
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "Sed ut pe veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "content": "Sed ut perspiciatis wow this is awesome! thank you for making this tutorial and you are indeed a great tutor"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "content": "Sed ut perspiciatis wow this is awesome! thank you for making this tutorial and you are indeed a great tutor"
+    },
+    {
+      "title": "Postman",
+      "content": "Editing frm Postman.",
+      "id": 5
+    },
+    {
+      "title": "cvc",
+      "content": "cvcv",
+      "id": 6
+    },
+    {
+      "title": "cvc",
+      "content": "ccc",
+      "id": 7
+    },
+    {
+      "title": "ncc",
+      "content": "cnnn",
+      "id": 8
+    },
+    {
+      "title": "cc",
+      "content": "ccv",
+      "id": 9
+    },
+    {
+      "title": "last",
+      "content": "last",
+      "id": 10
+    },
+    {
+      "title": "aa",
+      "content": "a",
+      "id": 11
+    },
+    {
+      "title": "Post 12",
+      "content": "asas",
+      "id": 12
+    },
+    {
+      "title": "Posds",
+      "content": "sfsf",
+      "id": 13
+    },
+    {
+      "title": "ccc",
+      "content": "ccc",
+      "id": 14
+    }
+  ]
+}
