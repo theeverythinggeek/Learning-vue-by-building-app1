@@ -10,3 +10,4 @@ npm install
 ```
 npm run serve
 ```
+![Preview](https://github.com/theeverythinggeek/Learning-vue-by-building-app1/raw/master/preview_app.png "Preview")
