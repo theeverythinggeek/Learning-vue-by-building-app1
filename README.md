@@ -1,5 +1,6 @@
-# my-vue-app
+# Learning-vue-by-building-app
 
+#### from: https://www.youtube.com/watch?v=CTeFoa55ftQ
 ## Project setup
 ```
 npm install
